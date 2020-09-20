@@ -29,4 +29,20 @@ Some things you need to know, or at least, know that exist.
 
 <!-- Some results -->
 ## Some results
+#### Height variation in test 1
 ![height in test 1](plots/t1_altura.png)
+
+#### Temperature variation in test 1
+![temp in test 1](plots/t1_temp.png)
+
+#### Height variation in test 2
+![height in test 2](plots/t2_altura.png)
+
+#### Temperature variation in test 2
+![temp in test 2](plots/t2_temp.png)
+
+#### Height and flow of water through the controlled tap in test 2
+![Height and flow of water](plots/t2_altura_No.png)
+
+#### Response time of the thread that controls the height
+![thread response time](plots/tempResp_altura.png)
