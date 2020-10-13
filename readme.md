@@ -2,7 +2,7 @@
 # Control and supervision of a simulated boiler system
 
 <!-- ABOUT THE PROJECT -->
-## About the Project
+## About the project
 
 This was my final project for the **real-time systems** discipline. In this project, a program was made to **supervise and control a simulated boiler** through a Java program provided by the book *Fundamentals of Real Time Systems* by **Rômulo Silva de Oliveira**.
 
